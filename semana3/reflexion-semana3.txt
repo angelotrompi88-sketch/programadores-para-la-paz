@@ -1,0 +1,8 @@
+Llevar un registro de cambios con Git es muy importante para trabajar de manera segura.
+Nos ayuda a guardar cada avance que hacemos en el código.
+Si hay alguna falla, comentémos un error o borramos algo, podemos regresar al estado anterior con solo un comando.
+Esto evita perdidas de trabajo o que el proyecto deje de funcionar por completo.
+También realiza un respaldo a detalle permitiendo conocer qué cambios se hizo, cuándo y quién lo modifico.
+Sin esta herramienta, cualquier proyecto se vería desordenado y con archivos quizás duplicados.
+Nos permite el trabajo en equipo de manera simultanea sin borrar absolutamente nada
+En conclusión, usar Git es lo ideal si queremos llevar un proyecto ordenado, que se vea profesional y un código limpio.

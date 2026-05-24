@@ -1,0 +1,11 @@
+Repositorio: Es como una carpeta inteligente en tu computadora donde se guarda todo el proyecto.
+Deja un historial de cada cambios que se realiza en los archivos.
+Sirve para tener un historial completo y ordenado de todo el trabajo desde el inicio.
+
+Commit: Se utiliza para dejar evidencia del estado actual del proyecto-archivos.
+Nos permite guardar de forma segura los avances que llevamos en un momento espeficio del proyecto.
+Con estos mismos commit, podemos retornar a x punto si algo llega a salir mal
+
+Push: Con este comando empujamos los comimos que realizamos en la Terminal a internet.
+Sube el trabajo realizado en la terminal directamente a la nube, en nuestro caso GitHub.
+Deja respaldo del código y permite a los demás visualizarlo de manera ordenada.
