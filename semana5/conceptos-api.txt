@@ -1,0 +1,5 @@
+¿Qué hace esta ruta POST /reporte?
+Esta ruta está diseñada para recibir información enviada por el usuario en formato JSON a través del cuerpo de la solicitud (req.body). En lugar de solo mostrar un texto estático, procesa el parámetro "mensaje" enviado y devuelve una confirmación estructurada en formato JSON indicando que el reporte fue recibido correctamente.
+
+¿Para qué podría servir en una aplicación comunitaria?
+En una aplicación comunitaria, serviría como el canal oficial para que los vecinos reporten incidentes en tiempo real, tales como fallas en las luminarias públicas, acumulación de basura, daños en las vías o alertas de seguridad vecinal. Los datos capturados podrían almacenarse automáticamente en una base de datos o enviarse directamente a los encargados de resolver la problemática.
