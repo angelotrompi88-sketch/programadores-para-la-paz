@@ -1,0 +1,14 @@
+Sistema operativo:
+Es la base de software que administra directamente los recursos físicos de hardware del servidor, controlando procesos internos, memorias y redes para que las plataformas corran de forma eficiente.
+
+Node.js:
+Es el entorno de ejecución en tiempo real que permite procesar y ejecutar código JavaScript directamente en el lado del servidor, manejando operaciones asíncronas y múltiples peticiones simultáneas.
+
+Aplicación server.js:
+Es nuestro script de código principal donde programamos la lógica de negocio del backend, configuramos las rutas HTTP (como /estado) y definimos el comportamiento de las respuestas hacia los usuarios.
+
+Puerto:
+Es una interfaz o punto de acceso virtual numérico específico (como el 3000) por el cual el servidor escucha y encauza el tráfico de datos entrante y saliente para una aplicación específica.
+
+Logs:
+Son archivos de registro cronológico automatizado donde el servidor anota la actividad operativa, conexiones y fallas, indispensables para auditar la seguridad y diagnosticar errores imprevistos.
