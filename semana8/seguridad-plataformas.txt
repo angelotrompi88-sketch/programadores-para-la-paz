@@ -1,0 +1,9 @@
+1. No exponer datos personales ni información sensible de los usuarios en entornos públicos.
+2. Proteger credenciales mediante el uso de contraseñas fuertes y almacenamiento cifrado.
+3. Usar conexiones seguras y protocolos cifrados (como HTTPS y SSH) para la transmisión de datos.
+4. Registrar y auditar accesos de manera constante a través de la revisión de logs para detectar anomalías.
+5. Limitar el acceso a información sensible aplicando estrictamente el principio de mínimo privilegio.
+
+*   **`reflexion-semana8.txt`**
+    ```text
+    La seguridad digital es un pilar indispensable para proteger las plataformas tecnológicas comunitarias, ya que estas herramientas sostienen la comunicación, la participación y el tejido social de los ciudadanos. Cuando un proceso participativo depende de un servidor, cualquier brecha de seguridad o caída del sistema no representa únicamente una falla técnica, sino una vulneración directa a la privacidad de los datos de las personas y un daño severo a la confianza colectiva. Si los usuarios perciben que la plataforma es inestable o que sus credenciales están expuestas, abandonarán el espacio digital, neutralizando su impacto social. Por lo tanto, blindar el entorno operativo mediante buenas prácticas en Linux, gestionar los permisos de acceso de manera responsable y auditar el código con transparencia garantiza la continuidad del servicio. Esto demuestra que la seguridad digital es un compromiso ético y una cultura de cuidado colectivo esencial para empoderar a la comunidad y asegurar la sostenibilidad tecnológica a largo plazo.
