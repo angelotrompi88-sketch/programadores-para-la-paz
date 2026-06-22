@@ -1,0 +1,6 @@
+Información de los comandos ejecutados:
+- 'uname -a': Muestra información detallada sobre el sistema operativo y el núcleo (kernel) de Linux, incluyendo el nombre del host, la versión del kernel, la arquitectura del procesador y la fecha de compilación.
+- 'whoami': Muestra el nombre exacto del usuario actual con el que se está sesionando en la terminal de Linux.
+
+Importancia de conocer esta información al administrar un servidor:
+Es fundamental conocer la información del sistema para garantizar la compatibilidad al instalar herramientas de desarrollo, librerías o dependencias del backend (como Node.js). Saber la arquitectura y la versión del kernel permite aplicar parches de seguridad adecuados, diagnosticar problemas de rendimiento y verificar que los procesos se ejecuten bajo el usuario con los permisos correctos (siguiendo el principio de mínimo privilegio), evitando configuraciones inseguras que vulneren el servidor en producción.
