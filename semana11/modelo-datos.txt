@@ -1,0 +1,21 @@
+Entidad: Causa
+
+Campos principales:
+- id (Número único de registro)
+- título (Texto corto)
+- descripcion (Texto detallado)
+- fecha_creacion (Fecha)
+
+Propósito:
+Almacenar las iniciativas, necesidades o causas comunitarias propuestas por los ciudadanos para que queden registradas de manera permanente y visible en la plataforma.
+
+Entidad: Apoyo
+
+Campos principales:
+- id (Número único de registro)
+- causa_id (Relación con el id de la Causa)
+- usuario_anonimizado (Código único de usuario)
+- fecha_apoyo (Fecha y hora)
+
+Propósito:
+Registrar de manera estructurada los apoyos digitales que recibe cada causa, permitiendo cuantificar la participacion ciudadana y mantener la trazabilidad del respaldo sin exponer datos personales.

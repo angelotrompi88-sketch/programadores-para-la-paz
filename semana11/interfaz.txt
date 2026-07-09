@@ -1,0 +1,7 @@
+La interfaz contará con una sección que despliega un formulatio limpio para crear una nueva causa comunitaria, solicitando únicamente campos no sensibles como el título, una descripcion clara y la fecha
+
+En la pantalla principal se incluira una vista de causas disponibles donde cualquier ciudadan@ podrá leer las propuestas de manera pública y organizada
+
+Cada causa listada incorporará un botón de apoyo directo y un contador automatizado de apoyos a la vista que reflejará la cantidad exxacta de respaldos acumulados
+
+Todda la interfaz visual se diseñará bajo principios de usabilidad sencilla, asegurando transparencia en los datos comunitarios sin mostrar bajo ningún concepto informacion privada, identidades o datos personales de los usuarios participantes
