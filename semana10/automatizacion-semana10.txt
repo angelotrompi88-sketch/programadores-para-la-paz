@@ -1,0 +1,7 @@
+1. El evento que activa el flujo es el registro exitoso de una nueva incidencia en la base de datos de la plataforma comunitaria.
+
+2. Un nodo webhook de n8n capta y transmite una accion al nodo de Telegram
+
+3. "Atencion equipo: Se ha registrado un nuevo reporte en el sistema de veeduría. Ingresen a la plataforma para revisar los detalles y asignar un responsable"
+
+4. Bajo ninguna circunstancia se deben enviar los nombres de los denunciantes, documentos de identidad, direcciones reales exactas, numeros telefonicos personales, contraseñas de acceso ni tokens de configuracion

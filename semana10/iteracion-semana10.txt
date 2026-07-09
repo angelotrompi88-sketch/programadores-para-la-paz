@@ -1,0 +1,10 @@
+¿Qué 2 tareas del backlog harías primero? R: Ejecutaria primero las historias 1 y 2: El registro de incidencias por parte del ciudadano y la consulta de reportes por parte del equipo de veeduría.
+
+Por qué son las más importantes? R: Porque es la parte fundamental de la plataforma comunitaria. Sin la capacidad de capturar los datos de la incidencia ni la posibilidad de que el equipo los visualice el sistema no tendría datos de entrada para procesar ni justificar la existencia de alerta de automatizacion posteriores.
+
+¿Qué significa para ti que una tarea esté “terminada”? R: Una tarea se da por terminada cuando cumple con estos 3 criterios segun yo:
+
+  1. El codigo de la funcionalidad es completamente operativo y resuelve la necesidad planteada en la historia de usuario
+  2. Fue probada tanto de manera local como en el entorno de desarrollo simulando casos reales y no arrojo errores.
+  3. El codigo fue restructurado de acuerdo a los requerimientos, guardado y registrado correctamente en Git.
+  
