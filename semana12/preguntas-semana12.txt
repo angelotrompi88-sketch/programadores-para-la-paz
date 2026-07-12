@@ -1,0 +1,4 @@
+1. Una herramienta para que una comunidad apoyos a una causa y genera una peticion formal
+2. Convertir informacion registrada en un documento formal que pueda ser compartido o presentado
+3. Para evitar almacenar informacion innecesaria o sensible
+4. Enviar notificaciones automáticas cuando ocurre un evento en el sistema

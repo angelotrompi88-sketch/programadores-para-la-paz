@@ -1,0 +1,7 @@
+Entidad: causa
+Campos: id, titulo, descripcion, fecha
+Proposito: Sirve para registrar de manera ordenada cada propuesta o problema que los vecinos quieren visibilizar en la plataforma, guardando los detalles generales de la solicitud
+
+Entidad: Apoto
+Campos: id, causa_id, codigo_usuario, fecha
+Proposito: Sirve para contar cuantas personas respaldan una causa especifica. Se conecta con la causa mediante el id y lleva el control del volumen de apoyo sin guardar los nombres reales para cuidar la privacidad

@@ -1,0 +1,5 @@
+Evento: Cuando una causa alcanza un numero determinado de apoyos en la plataforma
+
+Mensaje: "¡Meta alcanzada! Una propuesta comunitaria ha reunido los apoyos necesarios y el documento formal de peticion ya está listo para ser descargado y presentado."
+
+Informacion prohibida: No se deben incluir nombres de los firmantes, numeros de cedula, telefonos, direcciones particulares de los vecinos ni comentarios o quejas que contengan datos personales sensibles.

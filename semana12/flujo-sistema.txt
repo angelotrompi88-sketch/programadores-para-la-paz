@@ -1,0 +1,5 @@
+1. Un vecino ingresa a la plataforma y crea una nueva causa o propuesta para el barrio
+2. La plataforma guarda esa causa con su titulo y descripcion de forma segura en la base de datos
+3. Otros ciudadanos entran al sistema, leen la propuesta y le dan clic al boton de apoyar
+4. El sistema registra cada respaldo y actualiza el contador de apoyos automaticamente en tiempo real 
+5. Al completarse los apoyos, la plataforma junta toda la informacion y genera un documento PDF formal listo para descargar y presentar ante las autoridades
